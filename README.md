@@ -1,4 +1,5 @@
-# Wholesale-Customer-Segmentation
+
+![istockphoto-1309874267-612x612](https://github.com/Chinghsiaochen/Wholesale-Customer-Segmentation/assets/104823654/0e34c971-972b-42f8-834a-88cef5e6d381)
 
 # Business Goal: 
 Identifying customer segments in the whole sale data using various unsupervised learning techniques
